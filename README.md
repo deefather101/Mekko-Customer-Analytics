@@ -1,4 +1,4 @@
-# Mekko Customer Demographics Dashboard
+# Mekko Customer Demographics & Shoppping Reference Dashboard
 
 ![Dashboard Screenshot](./docs/screenshots/dashboard-preview.png)
 
